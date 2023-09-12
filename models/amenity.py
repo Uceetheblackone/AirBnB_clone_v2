@@ -1,4 +1,5 @@
-menity Module for HBNB project """
+#!/usr/bin/python3
+""" Amenity Module for HBNB project """
 import os
 from sqlalchemy import Column, String
 from sqlalchemy.orm import relationship
